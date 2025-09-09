@@ -54,10 +54,10 @@
 ## 🌟 Featured Projects  
 
 🔹 [**Smart Notes App**](https://github.com/Nageshwar-Bedge/SmartNoteApp) — Full-stack notes app with CRUD, filters, reminders & PDF export.  
-🔹 [**Dental Center Dashboard**](https://github.com/Nageshwar-Bedge/Dental-Dashboard) — Role-based admin/patient portal with calendar & offline mode.  
+🔹 [**Dental Center Dashboard**](https://github.com/Nageshwar-Bedge/dental-center-dashboard) — Role-based admin/patient portal with calendar & offline mode.  
 🔹 [**AcoNews Web App**](https://github.com/Nageshwar-Bedge/AcoNews) — News aggregator with optimized client routing.  
 🔹 [**Bus Reservation System**](https://github.com/Nageshwar-Bedge) — MERN app for bus ticket booking & seat management.  
-🔹 [**Java Personal Finance Manager**](https://github.com/Nageshwar-Bedge/Finance-Manager) — Expense tracker with category insights & CSV import/export.  
+🔹 [**Java Personal Finance Manager**](https://github.com/Nageshwar-Bedge/Personal-Finance-Manager) — Expense tracker with category insights & CSV import/export.  
 
 ---
 
