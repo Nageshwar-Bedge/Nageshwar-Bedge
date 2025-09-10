@@ -76,6 +76,8 @@
   <a href="https://linkedin.com/in/bedge-nageshwar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/nageshwar_bedge/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nageshwar-Bedge"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://nageshwar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+
 </p>
 
 ---
