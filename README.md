@@ -5,7 +5,8 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 🎓 IT Graduate (2025) | Pune, India  
+- 💼 **Software Engineer Trainee At Yardi Software Pvt. Ltd.**
+- 🎓 IT Graduate (2025) | Pune, India
 - 💻 Full-stack developer with strong foundations in **MERN Stack & Java**  
 - 🏆 **Smart India Hackathon Participant** (2023 & 2024)  
 - 💼 Internship Experience: **Vithal Vision IT & Media Solutions**  
