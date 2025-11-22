@@ -1,6 +1,6 @@
 <!-- Static Header -->
 <h1 align="center">Hi 👋, I'm Nageshwar Bedge</h1>
-<h3 align="center">Full-Stack Developer | MERN & Java Enthusiast | Open Source Contributor | Lifelong Learner 🚀</h3>
+<h3 align="center">Software Engineer Trainee | MERN & Java Enthusiast | Open Source Contributor | Lifelong Learner 🚀</h3>
 
 ---
 
